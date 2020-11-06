@@ -1,0 +1,31 @@
+.App {
+  border: 1px solid black;
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.nameEmail {
+  border: 1px solid black;
+  margin: 2rem;
+}
+.city {
+  border: 1px solid black;
+  margin: 2rem;
+}
+.UserInput {
+  border: 1px solid black;
+  margin: 2rem;
+}
+.userDetails {
+  border: 1px solid black;
+  margin: 2rem;
+  width: 100;
+}
+.cities {
+  border: 1px solid black;
+  margin: 2rem;
+  width: 100;
+}
+.lists {
+  justify-content: space-between;
+}
